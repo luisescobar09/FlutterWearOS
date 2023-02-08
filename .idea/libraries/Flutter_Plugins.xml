@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../FLUTTER SDK/.pub-cache/hosted/pub.dartlang.org/pedometer-3.0.0" />
+      <root url="file://$PROJECT_DIR$/../../FLUTTER SDK/.pub-cache/hosted/pub.dartlang.org/wear-1.1.0" />
+      <root url="file://$PROJECT_DIR$/../../FLUTTER SDK/.pub-cache/hosted/pub.dartlang.org/permission_handler-10.2.0" />
+      <root url="file://$PROJECT_DIR$/../../FLUTTER SDK/.pub-cache/hosted/pub.dartlang.org/heart_rate_flutter-0.0.2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
